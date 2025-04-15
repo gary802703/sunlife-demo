@@ -4,3 +4,4 @@ this is testing source code for git exam.
 3. Deploy
 4. Push it
 5. Completed
+6. Release to customer
