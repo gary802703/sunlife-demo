@@ -5,3 +5,4 @@ this is testing source code for git exam.
 4. Push it
 5. Completed
 6. Release to customer
+7. Approval from Client
